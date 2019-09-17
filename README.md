@@ -1,7 +1,5 @@
 # Tilt-n-Draw
 
-Hello World!
+Download the game from Google Play here: https://play.google.com/store/apps/details?id=com.colepatterson.tiltndraw
 
-I have no idea how to use GitHub and I'll figure it out eventually
-Nice 
-haha lol
+iOS Port is planned, and is coming in the near future.
